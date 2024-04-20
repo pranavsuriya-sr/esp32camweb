@@ -11,7 +11,7 @@ loginForm.addEventListener('submit', function(event) {
     // Validate username and password
     if (username === '12345678' && password === '12345678') {
         // Successful login
-        window.location.href = 'index1.html';
+        window.location.href = 'https://akshaygrandhi123.github.io/esp32cam2/';
         // Perform additional actions after successful login (e.g., redirect to another page)
     } else {
         // Incorrect username or password

@@ -14,5 +14,5 @@ fullScreenBtn.addEventListener('click', () => {
 });
 
 logoutBtn.addEventListener('click', () => {
-    window.location.href = 'index.html';
+    window.location.href = 'https://akshaygrandhi123.github.io/esp32camweb/';
 });
